@@ -40,3 +40,6 @@ To make break in the paragraph, add [ab]br[/ab]. It's called a "break tag".
     </p>
   </body>
 </html>
+
+<p>If I want something italicized, use [ab]em[ab].
+	<em>Apple, Microsoft, Google, and Netflix are companies I've applied to.</em>
