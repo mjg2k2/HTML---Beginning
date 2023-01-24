@@ -26,4 +26,17 @@ Use:	<html>
 		<body>
 		</body>
 	</html>
-	For the structure of a webpage. Elements I want to display go inside of the html.</p>
+For the structure of a webpage. Elements I want to display go inside of the html.</p>
+
+To make break in the paragraph, add [ab]br[/ab]. It's called a "break tag".
+<html>
+  <body>
+    <h1> My favorite things </h1>
+    <p>
+    Raindrops on roses<br>
+    Whiskers on kittens<br>
+    Bright copper kettles<br>
+    Warm woolen mittens
+    </p>
+  </body>
+</html>
