@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<body bgcolor="000000">
+
+<h1 style="color:Ivory;">Test 1</h1>
+<p style="color:Crimson;">This is just an example. This is a test.</p>
+
+<h2 style="color:Ivory;">Test 2</h2>
+<p style="color:Orange;">Second example</p>
+
+<h3 style="color:Ivory;">Test 3</h3>
+<p style="color:CadetBlue;">Third example</p>
+
+<h4 style="color:Ivory">How many cats do I have?</h4>
+<p style="color:gray;" title="4 cats: 3 tabbies and 1 korat!">Hover here for answer.</p>
+
+</body>
+</html>
